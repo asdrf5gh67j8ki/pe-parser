@@ -1,0 +1,9 @@
+/build*/
+/dist/
+/reports/
+/examples/
+*.db
+*.pyc
+__pycache__/
+/.vs/
+/CMakeUserPresets.json
